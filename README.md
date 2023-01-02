@@ -24,3 +24,8 @@ anexa nr.12 - Grădinile zoologice;
 anexa nr.13 - Zonele umede de importanţă internaţională.
 
 Anexele din lege au fost descarcate in forma lor originala, redenumite dupa o forma comuna, reformatate si convertate in formatul RTF.
+
+
+Clean Data
+Au fost modificate campurile numerice. Pentru suprafata au fost folosite numere cu 3 cifre dupa 0.
+Anexa 4. Eroare la suprafata Rezervatii naturale silvice 
