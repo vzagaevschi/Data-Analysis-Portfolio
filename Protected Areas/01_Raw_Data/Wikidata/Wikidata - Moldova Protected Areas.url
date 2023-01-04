@@ -1,0 +1,6 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://query.wikidata.org/embed.html#%23defaultView%3AMap%0ASELECT%20DISTINCT%20%3FmonumentLabel%20%3Fmonument%20%3Fcoor%20%3Fimage%20%3FtipLabel%20WHERE%20%7B%0A%20%3Fmonument%20(wdt%3AP1435%2Fwdt%3AP279*)%20wd%3AQ12720953.%0A%20%23%3Fmonument%20wdt%3AP1435%20%3Ftip.%0A%20%23%3Fmonument%20wdt%3AP625%20%3Fcoor%0A%20OPTIONAL%20%7B%20%3Fmonument%20wdt%3AP625%20%3Fcoor%20%7D%0A%20OPTIONAL%20%7B%20%3Fmonument%20wdt%3AP18%20%3Fimage%20%7D%0A%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22ro%22.%20%7D%0A%7D
+HotKey=0
