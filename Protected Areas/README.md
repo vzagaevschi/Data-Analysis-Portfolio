@@ -1,14 +1,45 @@
-# protected_areas
-Dataset Protected Areas
-Law of the Republic of Moldova No. 1538 of 25.02.1998 regarding the fund of natural areas protected by the state
-Legea Republicii Moldova Nr. 1538 din  25.02.1998 privind fondul ariilor naturale protejate de stat
+# Protected Areas of the Reppublic of Moldova
+This project is a part of the my Data Analyis Portfolio.
+Project data is updated to 2023-01-01.
 
+#### -- Project Status: [Active]
 
+## Project Intro/Objective
+The purpose of this project is to collect, clean, process and present public data about Protected Areas of R. Moldova. 
 
-Colectarea datelor
-Datele initiale au fost preluate din Legea RM. Sunt 13 anexe care corespund diferitor tipuri de arii protejate. Anexa 9 a fost exclusa din lege in 2005.
-Anexele contin date in forma de tabel: nr in tabelul curent, denumirea, amplasamentul, detinatorii de terenuri.
-Legea este modificata periodic si la fel pot fi modificate datele din anexe. Datele din proiect sunt actualizate la 2023-01-01.
+### Methods Used
+* Data cleaning
+   - Collected, sorted and organizeed data.
+   - Removed duplicates and irrelevant values.
+   - Searched for missing values and filled them in (coordonates).
+   - Fixed structural errors in the dataset.
+   - Identified outliers and removed them.
+   - Validated dataset.
+* Data Visualization
+   - Excel
+   - Tableau 
+* etc.
+
+### Technologies
+* Excel formulas 
+* PostGres
+* Tableau
+* etc. 
+
+## Project Description
+The initial data were taken from the Law of the Republic of Moldova. - http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=311614
+There are 13 annexes that correspond to different types of protected areas. 
+Annex 9 was excluded from the law in 2005. 
+The annexes contain data organised in table form: nr, name, location, land owners. 
+The law is amended periodically, as well as the data in the annexes. 
+Project data is updated to 2023-01-01.
+
+## Dataset
+
+Created Dataset from:
+* Legea Republicii Moldova Nr. 1538 din 25.02.1998 privind fondul ariilor naturale protejate de stat - Protected Areas Law of the Republic of Moldova No. 1538 of 25.02.1998 regarding the fund of natural areas protected by the state 
+* Data from R.M. Environmental Agency https://www.am.gov.md/ro/content/d1-arii-protejate
+* Spatial data collected from google maps and location attirbute.
 
 anexa nr.1 - Rezervaţiile ştiinţifice;
 anexa nr.2 - Parcurile naţionale;
@@ -23,9 +54,7 @@ anexa nr.11 - Monumentele de arhitectură peisajeră;
 anexa nr.12 - Grădinile zoologice;
 anexa nr.13 - Zonele umede de importanţă internaţională.
 
-Anexele din lege au fost descarcate in forma lor originala, redenumite dupa o forma comuna, reformatate si convertate in formatul RTF.
+The annexes were downloaded in their original form, renamed after a common form, reformatted and converted to RTF format.
 
-
-Clean Data
-Au fost modificate campurile numerice. Pentru suprafata au fost folosite numere cu 3 cifre dupa 0.
-Anexa 4. Eroare la suprafata Rezervatii naturale silvice 
+## Contact
+* Feel free to contact me with any questions!
