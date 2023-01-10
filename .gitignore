@@ -263,3 +263,5 @@ ENV/
 
 # tableau files
 .twbx
+
+.gitignore
