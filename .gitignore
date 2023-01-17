@@ -262,7 +262,7 @@ ENV/
 /site
 
 # tableau files
-.twbx
+*.twbx
 
 # model files
-.eapx
+*.eapx
