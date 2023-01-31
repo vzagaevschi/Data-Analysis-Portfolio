@@ -266,3 +266,6 @@ ENV/
 
 # model files
 *.eapx
+
+# folders
+emigration_immigration/
