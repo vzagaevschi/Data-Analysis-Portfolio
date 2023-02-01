@@ -34,7 +34,7 @@ The project demonstrates my ability to manipulate, analyze, and visualize data, 
 So, five top countries that contributed the most to immigration to Moldova for the years 2014-2021 are Ukraine, Russia, Romania, Turkey, and Israel. Data and plot shows that Ukraine had the highest number of immigrants to Moldova, followed by Russia and Romania. Turkey had the fourth highest number of immigrants, and Israel had the lowest among the five countries. The total column represents the cumulative number of immigrants from the five countries over the eight-year period.
 
 Based on the data, the following can be concluded:
-- Ukraine has consistently been the leading country of origin for immigrants to Moldova, with a total of 5,787 immigrants over the eight-year period.
+- Ukraine has consistently been the leading country of origin for immigrants to Moldova, with a total of 5,787 immigrants over the eight-year period. It will be necessary and interesting to compare the data with immigration in 2022, which will certainly be much higher due to the Russia-Ukraine war.
 - Russia has had a fluctuating number of immigrants to Moldova, with a peak in 2016 and a dip in 2020.
 - Romania has had a decrease in the number of immigrants to Moldova over the years, with the highest number of immigrants in 2014 and the lowest in 2021.
 - Turkey has had a significant increase in the number of immigrants to Moldova in the recent years, with the highest number in 2021.
