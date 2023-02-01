@@ -31,6 +31,15 @@ The key findings from the analysis are highlighted in the Jupyter Notebook and t
 ## Conclusion
 The project demonstrates my ability to manipulate, analyze, and visualize data, and to present my findings in a clear and concise manner. The insights and visualizations generated from the data provide valuable information for decision making and future research.
 
+So, five top countries that contributed the most to immigration to Moldova for the years 2014-2021 are Ukraine, Russia, Romania, Turkey, and Israel. Data and plot shows that Ukraine had the highest number of immigrants to Moldova, followed by Russia and Romania. Turkey had the fourth highest number of immigrants, and Israel had the lowest among the five countries. The total column represents the cumulative number of immigrants from the five countries over the eight-year period.
+
+Based on the data, the following can be concluded:
+- Ukraine has consistently been the leading country of origin for immigrants to Moldova, with a total of 5,787 immigrants over the eight-year period.
+- Russia has had a fluctuating number of immigrants to Moldova, with a peak in 2016 and a dip in 2020.
+- Romania has had a decrease in the number of immigrants to Moldova over the years, with the highest number of immigrants in 2014 and the lowest in 2021.
+- Turkey has had a significant increase in the number of immigrants to Moldova in the recent years, with the highest number in 2021.
+- Israel has had the least number of immigrants to Moldova, with a total of 2,839 over the eight-year period, and the numbers of immigrants decreased over the years.
+
 ## Tools and Technologies
 
 - Python
