@@ -5,8 +5,10 @@
 This portfolio project showcases my skills in data analysis and visualization. The project is focused on exploring and analyzing a dataset of my choice, and presenting my insights and findings through various visualization techniques.
 
 ## Dataset
-The Dataset: Immigration to Moldova from 2014 to 2021 (Imigranti dupa tara de emigrare si scopul sosirii, 2014-2021]) from National Bureau of Statistics of the Republic of Moldova
+The Dataset: Immigration to Moldova from 2014 to 2021 (Imigranti dupa tara de emigrare si scopul sosirii, 2014-2021]) from National Bureau of Statistics of the Republic of Moldova. 
+
 Dataset Source: [Populatia si procesele demografice: Imigranti dupa tara de emigrare si scopul sosirii, 2014-2021](https://statbank.statistica.md/PxWeb/pxweb/ro/20%20Populatia%20si%20procesele%20demografice/20%20Populatia%20si%20procesele%20demografice__POPrec__POP070/POP070100rcl.px/?rxid=b2ff27d7-0b96-43c9-934b-42e1a2a9a774).
+
 The dataset contains annual data on the flows of international immigrants to the Republic of Moldova as recorded by the countries of destination for period of 2014-2021. The data includes factors such as the country, years, number of people moving  and reasons for moving.
 
 
