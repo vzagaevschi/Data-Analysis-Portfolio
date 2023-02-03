@@ -1,0 +1,1009 @@
+Country;Continent;Year;Immigration
+Afghanistan;Asia;2014;1
+Afghanistan;Asia;2015;1
+Afghanistan;Asia;2016;0
+Afghanistan;Asia;2017;2
+Afghanistan;Asia;2018;0
+Afghanistan;Asia;2019;5
+Afghanistan;Asia;2020;0
+Afghanistan;Asia;2021;0
+South Africa;Africa;2014;0
+South Africa;Africa;2015;0
+South Africa;Africa;2016;1
+South Africa;Africa;2017;4
+South Africa;Africa;2018;3
+South Africa;Africa;2019;0
+South Africa;Africa;2020;1
+South Africa;Africa;2021;3
+Albania;Europe;2014;9
+Albania;Europe;2015;6
+Albania;Europe;2016;6
+Albania;Europe;2017;1
+Albania;Europe;2018;4
+Albania;Europe;2019;3
+Albania;Europe;2020;1
+Albania;Europe;2021;0
+Algeria;Africa;2014;1
+Algeria;Africa;2015;2
+Algeria;Africa;2016;1
+Algeria;Africa;2017;3
+Algeria;Africa;2018;1
+Algeria;Africa;2019;2
+Algeria;Africa;2020;1
+Algeria;Africa;2021;4
+Saudi Arabia;Asia;2014;0
+Saudi Arabia;Asia;2015;0
+Saudi Arabia;Asia;2016;0
+Saudi Arabia;Asia;2017;0
+Saudi Arabia;Asia;2018;0
+Saudi Arabia;Asia;2019;1
+Saudi Arabia;Asia;2020;0
+Saudi Arabia;Asia;2021;0
+Argentina;South America;2014;0
+Argentina;South America;2015;1
+Argentina;South America;2016;1
+Argentina;South America;2017;0
+Argentina;South America;2018;0
+Argentina;South America;2019;1
+Argentina;South America;2020;3
+Argentina;South America;2021;3
+Armenia;Asia;2014;29
+Armenia;Asia;2015;29
+Armenia;Asia;2016;33
+Armenia;Asia;2017;32
+Armenia;Asia;2018;31
+Armenia;Asia;2019;35
+Armenia;Asia;2020;23
+Armenia;Asia;2021;27
+Australia;Australia/Oceania;2014;2
+Australia;Australia/Oceania;2015;5
+Australia;Australia/Oceania;2016;2
+Australia;Australia/Oceania;2017;4
+Australia;Australia/Oceania;2018;11
+Australia;Australia/Oceania;2019;1
+Australia;Australia/Oceania;2020;5
+Australia;Australia/Oceania;2021;3
+Austria;Europe;2014;15
+Austria;Europe;2015;18
+Austria;Europe;2016;10
+Austria;Europe;2017;12
+Austria;Europe;2018;15
+Austria;Europe;2019;7
+Austria;Europe;2020;7
+Austria;Europe;2021;14
+Azerbaijan;Asia;2014;37
+Azerbaijan;Asia;2015;65
+Azerbaijan;Asia;2016;61
+Azerbaijan;Asia;2017;80
+Azerbaijan;Asia;2018;171
+Azerbaijan;Asia;2019;256
+Azerbaijan;Asia;2020;86
+Azerbaijan;Asia;2021;141
+Bahrain;Asia;2014;0
+Bahrain;Asia;2015;0
+Bahrain;Asia;2016;0
+Bahrain;Asia;2017;0
+Bahrain;Asia;2018;1
+Bahrain;Asia;2019;0
+Bahrain;Asia;2020;0
+Bahrain;Asia;2021;0
+Bangladesh;Asia;2014;0
+Bangladesh;Asia;2015;1
+Bangladesh;Asia;2016;1
+Bangladesh;Asia;2017;2
+Bangladesh;Asia;2018;12
+Bangladesh;Asia;2019;0
+Bangladesh;Asia;2020;1
+Bangladesh;Asia;2021;3
+Belarus;Europe;2014;33
+Belarus;Europe;2015;45
+Belarus;Europe;2016;36
+Belarus;Europe;2017;27
+Belarus;Europe;2018;42
+Belarus;Europe;2019;48
+Belarus;Europe;2020;27
+Belarus;Europe;2021;40
+Belgium;Europe;2014;6
+Belgium;Europe;2015;6
+Belgium;Europe;2016;7
+Belgium;Europe;2017;7
+Belgium;Europe;2018;7
+Belgium;Europe;2019;4
+Belgium;Europe;2020;6
+Belgium;Europe;2021;2
+Bolivia;South America;2014;0
+Bolivia;South America;2015;0
+Bolivia;South America;2016;0
+Bolivia;South America;2017;0
+Bolivia;South America;2018;0
+Bolivia;South America;2019;0
+Bolivia;South America;2020;0
+Bolivia;South America;2021;0
+Bosnia-Herzegovina;Europe;2014;1
+Bosnia-Herzegovina;Europe;2015;2
+Bosnia-Herzegovina;Europe;2016;1
+Bosnia-Herzegovina;Europe;2017;2
+Bosnia-Herzegovina;Europe;2018;1
+Bosnia-Herzegovina;Europe;2019;3
+Bosnia-Herzegovina;Europe;2020;2
+Bosnia-Herzegovina;Europe;2021;0
+Botswana;Africa;2014;0
+Botswana;Africa;2015;0
+Botswana;Africa;2016;0
+Botswana;Africa;2017;0
+Botswana;Africa;2018;0
+Botswana;Africa;2019;0
+Botswana;Africa;2020;0
+Botswana;Africa;2021;0
+Brazil;South America;2014;12
+Brazil;South America;2015;9
+Brazil;South America;2016;19
+Brazil;South America;2017;15
+Brazil;South America;2018;13
+Brazil;South America;2019;9
+Brazil;South America;2020;6
+Brazil;South America;2021;7
+Bulgaria;Europe;2014;37
+Bulgaria;Europe;2015;23
+Bulgaria;Europe;2016;19
+Bulgaria;Europe;2017;15
+Bulgaria;Europe;2018;17
+Bulgaria;Europe;2019;18
+Bulgaria;Europe;2020;17
+Bulgaria;Europe;2021;20
+Burkina Faso;Africa;2014;0
+Burkina Faso;Africa;2015;1
+Burkina Faso;Africa;2016;1
+Burkina Faso;Africa;2017;1
+Burkina Faso;Africa;2018;4
+Burkina Faso;Africa;2019;0
+Burkina Faso;Africa;2020;0
+Burkina Faso;Africa;2021;0
+Cabo Verde;Africa;2014;0
+Cabo Verde;Africa;2015;3
+Cabo Verde;Africa;2016;0
+Cabo Verde;Africa;2017;0
+Cabo Verde;Africa;2018;0
+Cabo Verde;Africa;2019;0
+Cabo Verde;Africa;2020;0
+Cabo Verde;Africa;2021;0
+Cambodia;Asia;2014;0
+Cambodia;Asia;2015;0
+Cambodia;Asia;2016;0
+Cambodia;Asia;2017;0
+Cambodia;Asia;2018;0
+Cambodia;Asia;2019;0
+Cambodia;Asia;2020;0
+Cambodia;Asia;2021;0
+Cameroon;Africa;2014;1
+Cameroon;Africa;2015;4
+Cameroon;Africa;2016;2
+Cameroon;Africa;2017;11
+Cameroon;Africa;2018;6
+Cameroon;Africa;2019;11
+Cameroon;Africa;2020;7
+Cameroon;Africa;2021;3
+Canada;North America;2014;7
+Canada;North America;2015;4
+Canada;North America;2016;6
+Canada;North America;2017;5
+Canada;North America;2018;5
+Canada;North America;2019;8
+Canada;North America;2020;5
+Canada;North America;2021;8
+Czech Republic;Europe;2014;10
+Czech Republic;Europe;2015;3
+Czech Republic;Europe;2016;15
+Czech Republic;Europe;2017;8
+Czech Republic;Europe;2018;8
+Czech Republic;Europe;2019;5
+Czech Republic;Europe;2020;7
+Czech Republic;Europe;2021;4
+China;Asia;2014;26
+China;Asia;2015;28
+China;Asia;2016;36
+China;Asia;2017;24
+China;Asia;2018;27
+China;Asia;2019;35
+China;Asia;2020;12
+China;Asia;2021;35
+Cyprus;Europe;2014;6
+Cyprus;Europe;2015;6
+Cyprus;Europe;2016;3
+Cyprus;Europe;2017;5
+Cyprus;Europe;2018;8
+Cyprus;Europe;2019;4
+Cyprus;Europe;2020;3
+Cyprus;Europe;2021;3
+Colombia;South America;2014;1
+Colombia;South America;2015;0
+Colombia;South America;2016;0
+Colombia;South America;2017;0
+Colombia;South America;2018;0
+Colombia;South America;2019;3
+Colombia;South America;2020;4
+Colombia;South America;2021;5
+Congo;Africa;2014;5
+Congo;Africa;2015;0
+Congo;Africa;2016;1
+Congo;Africa;2017;12
+Congo;Africa;2018;9
+Congo;Africa;2019;0
+Congo;Africa;2020;0
+Congo;Africa;2021;2
+North Korea;Asia;2014;1
+North Korea;Asia;2015;0
+North Korea;Asia;2016;0
+North Korea;Asia;2017;1
+North Korea;Asia;2018;6
+North Korea;Asia;2019;1
+North Korea;Asia;2020;0
+North Korea;Asia;2021;0
+South Korea;Asia;2014;12
+South Korea;Asia;2015;7
+South Korea;Asia;2016;10
+South Korea;Asia;2017;0
+South Korea;Asia;2018;0
+South Korea;Asia;2019;4
+South Korea;Asia;2020;3
+South Korea;Asia;2021;7
+Costa Rica;North America;2014;11
+Costa Rica;North America;2015;0
+Costa Rica;North America;2016;0
+Costa Rica;North America;2017;0
+Costa Rica;North America;2018;0
+Costa Rica;North America;2019;0
+Costa Rica;North America;2020;0
+Costa Rica;North America;2021;0
+Cote D'Ivoire;Africa;2014;6
+Cote D'Ivoire;Africa;2015;8
+Cote D'Ivoire;Africa;2016;15
+Cote D'Ivoire;Africa;2017;2
+Cote D'Ivoire;Africa;2018;5
+Cote D'Ivoire;Africa;2019;1
+Cote D'Ivoire;Africa;2020;0
+Cote D'Ivoire;Africa;2021;0
+Croatia;Europe;2014;6
+Croatia;Europe;2015;12
+Croatia;Europe;2016;12
+Croatia;Europe;2017;6
+Croatia;Europe;2018;6
+Croatia;Europe;2019;9
+Croatia;Europe;2020;4
+Croatia;Europe;2021;3
+Denmark;Europe;2014;3
+Denmark;Europe;2015;5
+Denmark;Europe;2016;6
+Denmark;Europe;2017;7
+Denmark;Europe;2018;3
+Denmark;Europe;2019;8
+Denmark;Europe;2020;2
+Denmark;Europe;2021;0
+Dubai;Asia;2014;0
+Dubai;Asia;2015;0
+Dubai;Asia;2016;0
+Dubai;Asia;2017;1
+Dubai;Asia;2018;0
+Dubai;Asia;2019;0
+Dubai;Asia;2020;0
+Dubai;Asia;2021;0
+UAE;Asia;2014;0
+UAE;Asia;2015;2
+UAE;Asia;2016;0
+UAE;Asia;2017;0
+UAE;Asia;2018;1
+UAE;Asia;2019;2
+UAE;Asia;2020;2
+UAE;Asia;2021;4
+Ecuador;South America;2014;1
+Ecuador;South America;2015;2
+Ecuador;South America;2016;0
+Ecuador;South America;2017;0
+Ecuador;South America;2018;0
+Ecuador;South America;2019;0
+Ecuador;South America;2020;0
+Ecuador;South America;2021;0
+Egypt;Africa;2014;3
+Egypt;Africa;2015;11
+Egypt;Africa;2016;6
+Egypt;Africa;2017;3
+Egypt;Africa;2018;3
+Egypt;Africa;2019;7
+Egypt;Africa;2020;2
+Egypt;Africa;2021;11
+Switzerland;Europe;2014;8
+Switzerland;Europe;2015;3
+Switzerland;Europe;2016;8
+Switzerland;Europe;2017;6
+Switzerland;Europe;2018;5
+Switzerland;Europe;2019;4
+Switzerland;Europe;2020;4
+Switzerland;Europe;2021;9
+Estonia;Europe;2014;3
+Estonia;Europe;2015;4
+Estonia;Europe;2016;1
+Estonia;Europe;2017;1
+Estonia;Europe;2018;4
+Estonia;Europe;2019;1
+Estonia;Europe;2020;3
+Estonia;Europe;2021;7
+Ethiopia;Africa;2014;0
+Ethiopia;Africa;2015;0
+Ethiopia;Africa;2016;0
+Ethiopia;Africa;2017;0
+Ethiopia;Africa;2018;0
+Ethiopia;Africa;2019;0
+Ethiopia;Africa;2020;1
+Ethiopia;Africa;2021;1
+Philippines;Asia;2014;3
+Philippines;Asia;2015;1
+Philippines;Asia;2016;2
+Philippines;Asia;2017;3
+Philippines;Asia;2018;3
+Philippines;Asia;2019;1
+Philippines;Asia;2020;1
+Philippines;Asia;2021;3
+Finland;Europe;2014;22
+Finland;Europe;2015;6
+Finland;Europe;2016;11
+Finland;Europe;2017;4
+Finland;Europe;2018;7
+Finland;Europe;2019;1
+Finland;Europe;2020;2
+Finland;Europe;2021;3
+France;Europe;2014;42
+France;Europe;2015;43
+France;Europe;2016;29
+France;Europe;2017;41
+France;Europe;2018;33
+France;Europe;2019;43
+France;Europe;2020;22
+France;Europe;2021;17
+Georgia;Asia;2014;23
+Georgia;Asia;2015;31
+Georgia;Asia;2016;24
+Georgia;Asia;2017;24
+Georgia;Asia;2018;22
+Georgia;Asia;2019;30
+Georgia;Asia;2020;33
+Georgia;Asia;2021;39
+Germany;Europe;2014;59
+Germany;Europe;2015;40
+Germany;Europe;2016;47
+Germany;Europe;2017;41
+Germany;Europe;2018;41
+Germany;Europe;2019;32
+Germany;Europe;2020;18
+Germany;Europe;2021;42
+Ghana;Africa;2014;0
+Ghana;Africa;2015;3
+Ghana;Africa;2016;0
+Ghana;Africa;2017;0
+Ghana;Africa;2018;2
+Ghana;Africa;2019;0
+Ghana;Africa;2020;1
+Ghana;Africa;2021;5
+Greece;Europe;2014;26
+Greece;Europe;2015;20
+Greece;Europe;2016;18
+Greece;Europe;2017;14
+Greece;Europe;2018;15
+Greece;Europe;2019;14
+Greece;Europe;2020;13
+Greece;Europe;2021;8
+Guinea-Bissau;Africa;2014;0
+Guinea-Bissau;Africa;2015;0
+Guinea-Bissau;Africa;2016;1
+Guinea-Bissau;Africa;2017;0
+Guinea-Bissau;Africa;2018;0
+Guinea-Bissau;Africa;2019;0
+Guinea-Bissau;Africa;2020;0
+Guinea-Bissau;Africa;2021;0
+Guinea;Africa;2014;1
+Guinea;Africa;2015;0
+Guinea;Africa;2016;1
+Guinea;Africa;2017;0
+Guinea;Africa;2018;1
+Guinea;Africa;2019;0
+Guinea;Africa;2020;0
+Guinea;Africa;2021;2
+India;Asia;2014;40
+India;Asia;2015;37
+India;Asia;2016;80
+India;Asia;2017;84
+India;Asia;2018;128
+India;Asia;2019;333
+India;Asia;2020;79
+India;Asia;2021;244
+Indonesia;Asia;2014;0
+Indonesia;Asia;2015;6
+Indonesia;Asia;2016;5
+Indonesia;Asia;2017;6
+Indonesia;Asia;2018;4
+Indonesia;Asia;2019;6
+Indonesia;Asia;2020;4
+Indonesia;Asia;2021;5
+Fiji Islands;Australia/Oceania;2014;0
+Fiji Islands;Australia/Oceania;2015;0
+Fiji Islands;Australia/Oceania;2016;0
+Fiji Islands;Australia/Oceania;2017;0
+Fiji Islands;Australia/Oceania;2018;1
+Fiji Islands;Australia/Oceania;2019;0
+Fiji Islands;Australia/Oceania;2020;0
+Fiji Islands;Australia/Oceania;2021;0
+Jordan;Asia;2014;16
+Jordan;Asia;2015;12
+Jordan;Asia;2016;9
+Jordan;Asia;2017;3
+Jordan;Asia;2018;13
+Jordan;Asia;2019;10
+Jordan;Asia;2020;0
+Jordan;Asia;2021;7
+Iran;Asia;2014;2
+Iran;Asia;2015;3
+Iran;Asia;2016;7
+Iran;Asia;2017;5
+Iran;Asia;2018;2
+Iran;Asia;2019;4
+Iran;Asia;2020;0
+Iran;Asia;2021;2
+Iraq;Asia;2014;33
+Iraq;Asia;2015;18
+Iraq;Asia;2016;15
+Iraq;Asia;2017;2
+Iraq;Asia;2018;7
+Iraq;Asia;2019;5
+Iraq;Asia;2020;1
+Iraq;Asia;2021;2
+Ireland;Europe;2014;4
+Ireland;Europe;2015;4
+Ireland;Europe;2016;1
+Ireland;Europe;2017;2
+Ireland;Europe;2018;6
+Ireland;Europe;2019;3
+Ireland;Europe;2020;5
+Ireland;Europe;2021;4
+Israel;Asia;2014;525
+Israel;Asia;2015;548
+Israel;Asia;2016;594
+Israel;Asia;2017;456
+Israel;Asia;2018;489
+Israel;Asia;2019;83
+Israel;Asia;2020;42
+Israel;Asia;2021;102
+Italy;Europe;2014;206
+Italy;Europe;2015;180
+Italy;Europe;2016;170
+Italy;Europe;2017;139
+Italy;Europe;2018;130
+Italy;Europe;2019;118
+Italy;Europe;2020;81
+Italy;Europe;2021;116
+Japan;Asia;2014;0
+Japan;Asia;2015;15
+Japan;Asia;2016;2
+Japan;Asia;2017;9
+Japan;Asia;2018;5
+Japan;Asia;2019;7
+Japan;Asia;2020;2
+Japan;Asia;2021;3
+Kazakhstan;Asia;2014;17
+Kazakhstan;Asia;2015;25
+Kazakhstan;Asia;2016;42
+Kazakhstan;Asia;2017;33
+Kazakhstan;Asia;2018;22
+Kazakhstan;Asia;2019;37
+Kazakhstan;Asia;2020;23
+Kazakhstan;Asia;2021;34
+Kenya;Africa;2014;0
+Kenya;Africa;2015;0
+Kenya;Africa;2016;0
+Kenya;Africa;2017;0
+Kenya;Africa;2018;0
+Kenya;Africa;2019;0
+Kenya;Africa;2020;0
+Kenya;Africa;2021;1
+Kyrgyzstan;Asia;2014;18
+Kyrgyzstan;Asia;2015;23
+Kyrgyzstan;Asia;2016;14
+Kyrgyzstan;Asia;2017;13
+Kyrgyzstan;Asia;2018;23
+Kyrgyzstan;Asia;2019;27
+Kyrgyzstan;Asia;2020;17
+Kyrgyzstan;Asia;2021;13
+Latvia;Europe;2014;14
+Latvia;Europe;2015;9
+Latvia;Europe;2016;6
+Latvia;Europe;2017;4
+Latvia;Europe;2018;6
+Latvia;Europe;2019;6
+Latvia;Europe;2020;8
+Latvia;Europe;2021;3
+Lebanon;Asia;2014;13
+Lebanon;Asia;2015;23
+Lebanon;Asia;2016;14
+Lebanon;Asia;2017;17
+Lebanon;Asia;2018;11
+Lebanon;Asia;2019;12
+Lebanon;Asia;2020;16
+Lebanon;Asia;2021;25
+Libya;Africa;2014;6
+Libya;Africa;2015;2
+Libya;Africa;2016;1
+Libya;Africa;2017;0
+Libya;Africa;2018;0
+Libya;Africa;2019;1
+Libya;Africa;2020;0
+Libya;Africa;2021;0
+Liechtenstein;Europe;2014;2
+Liechtenstein;Europe;2015;0
+Liechtenstein;Europe;2016;0
+Liechtenstein;Europe;2017;0
+Liechtenstein;Europe;2018;0
+Liechtenstein;Europe;2019;0
+Liechtenstein;Europe;2020;0
+Liechtenstein;Europe;2021;0
+Lithuania;Europe;2014;11
+Lithuania;Europe;2015;7
+Lithuania;Europe;2016;7
+Lithuania;Europe;2017;7
+Lithuania;Europe;2018;13
+Lithuania;Europe;2019;10
+Lithuania;Europe;2020;3
+Lithuania;Europe;2021;5
+Luxembourg;Europe;2014;0
+Luxembourg;Europe;2015;0
+Luxembourg;Europe;2016;0
+Luxembourg;Europe;2017;0
+Luxembourg;Europe;2018;1
+Luxembourg;Europe;2019;1
+Luxembourg;Europe;2020;5
+Luxembourg;Europe;2021;2
+Macedonia;Europe;2014;1
+Macedonia;Europe;2015;6
+Macedonia;Europe;2016;6
+Macedonia;Europe;2017;1
+Macedonia;Europe;2018;1
+Macedonia;Europe;2019;0
+Macedonia;Europe;2020;1
+Macedonia;Europe;2021;3
+Madagascar;Africa;2014;1
+Madagascar;Africa;2015;0
+Madagascar;Africa;2016;0
+Madagascar;Africa;2017;0
+Madagascar;Africa;2018;0
+Madagascar;Africa;2019;1
+Madagascar;Africa;2020;1
+Madagascar;Africa;2021;0
+Malaysia;Asia;2014;0
+Malaysia;Asia;2015;0
+Malaysia;Asia;2016;0
+Malaysia;Asia;2017;0
+Malaysia;Asia;2018;1
+Malaysia;Asia;2019;1
+Malaysia;Asia;2020;1
+Malaysia;Asia;2021;0
+Mali;Africa;2014;0
+Mali;Africa;2015;0
+Mali;Africa;2016;1
+Mali;Africa;2017;0
+Mali;Africa;2018;0
+Mali;Africa;2019;1
+Mali;Africa;2020;0
+Mali;Africa;2021;5
+Malta;Europe;2014;0
+Malta;Europe;2015;0
+Malta;Europe;2016;0
+Malta;Europe;2017;0
+Malta;Europe;2018;1
+Malta;Europe;2019;1
+Malta;Europe;2020;0
+Malta;Europe;2021;1
+United Kingdom;Europe;2014;19
+United Kingdom;Europe;2015;19
+United Kingdom;Europe;2016;10
+United Kingdom;Europe;2017;28
+United Kingdom;Europe;2018;23
+United Kingdom;Europe;2019;25
+United Kingdom;Europe;2020;19
+United Kingdom;Europe;2021;27
+Morocco;Africa;2014;5
+Morocco;Africa;2015;3
+Morocco;Africa;2016;0
+Morocco;Africa;2017;0
+Morocco;Africa;2018;3
+Morocco;Africa;2019;2
+Morocco;Africa;2020;0
+Morocco;Africa;2021;2
+Mauritania;Africa;2014;1
+Mauritania;Africa;2015;0
+Mauritania;Africa;2016;0
+Mauritania;Africa;2017;0
+Mauritania;Africa;2018;0
+Mauritania;Africa;2019;0
+Mauritania;Africa;2020;1
+Mauritania;Africa;2021;0
+Mexico;North America;2014;0
+Mexico;North America;2015;1
+Mexico;North America;2016;1
+Mexico;North America;2017;4
+Mexico;North America;2018;1
+Mexico;North America;2019;10
+Mexico;North America;2020;4
+Mexico;North America;2021;7
+Mongolia;Asia;2014;2
+Mongolia;Asia;2015;0
+Mongolia;Asia;2016;3
+Mongolia;Asia;2017;3
+Mongolia;Asia;2018;0
+Mongolia;Asia;2019;3
+Mongolia;Asia;2020;2
+Mongolia;Asia;2021;5
+Montenegro;Europe;2014;3
+Montenegro;Europe;2015;0
+Montenegro;Europe;2016;2
+Montenegro;Europe;2017;1
+Montenegro;Europe;2018;1
+Montenegro;Europe;2019;3
+Montenegro;Europe;2020;1
+Montenegro;Europe;2021;0
+Myanmar;Asia;2014;0
+Myanmar;Asia;2015;0
+Myanmar;Asia;2016;0
+Myanmar;Asia;2017;0
+Myanmar;Asia;2018;0
+Myanmar;Asia;2019;1
+Myanmar;Asia;2020;0
+Myanmar;Asia;2021;0
+Nepal;Asia;2014;2
+Nepal;Asia;2015;0
+Nepal;Asia;2016;1
+Nepal;Asia;2017;1
+Nepal;Asia;2018;2
+Nepal;Asia;2019;1
+Nepal;Asia;2020;11
+Nepal;Asia;2021;17
+Niger;Africa;2014;0
+Niger;Africa;2015;0
+Niger;Africa;2016;0
+Niger;Africa;2017;1
+Niger;Africa;2018;0
+Niger;Africa;2019;0
+Niger;Africa;2020;0
+Niger;Africa;2021;2
+Nigeria;Africa;2014;2
+Nigeria;Africa;2015;2
+Nigeria;Africa;2016;12
+Nigeria;Africa;2017;5
+Nigeria;Africa;2018;6
+Nigeria;Africa;2019;13
+Nigeria;Africa;2020;24
+Nigeria;Africa;2021;37
+Norway;Europe;2014;7
+Norway;Europe;2015;14
+Norway;Europe;2016;5
+Norway;Europe;2017;9
+Norway;Europe;2018;4
+Norway;Europe;2019;1
+Norway;Europe;2020;1
+Norway;Europe;2021;1
+New Zealand;Australia/Oceania;2014;1
+New Zealand;Australia/Oceania;2015;0
+New Zealand;Australia/Oceania;2016;1
+New Zealand;Australia/Oceania;2017;2
+New Zealand;Australia/Oceania;2018;0
+New Zealand;Australia/Oceania;2019;0
+New Zealand;Australia/Oceania;2020;2
+New Zealand;Australia/Oceania;2021;1
+Netherlands;Europe;2014;9
+Netherlands;Europe;2015;14
+Netherlands;Europe;2016;13
+Netherlands;Europe;2017;12
+Netherlands;Europe;2018;8
+Netherlands;Europe;2019;8
+Netherlands;Europe;2020;7
+Netherlands;Europe;2021;7
+Pakistan;Asia;2014;14
+Pakistan;Asia;2015;8
+Pakistan;Asia;2016;10
+Pakistan;Asia;2017;1
+Pakistan;Asia;2018;7
+Pakistan;Asia;2019;18
+Pakistan;Asia;2020;3
+Pakistan;Asia;2021;8
+Panama;North America;2014;0
+Panama;North America;2015;0
+Panama;North America;2016;0
+Panama;North America;2017;0
+Panama;North America;2018;0
+Panama;North America;2019;0
+Panama;North America;2020;0
+Panama;North America;2021;0
+Paraguay;South America;2014;0
+Paraguay;South America;2015;0
+Paraguay;South America;2016;0
+Paraguay;South America;2017;0
+Paraguay;South America;2018;0
+Paraguay;South America;2019;0
+Paraguay;South America;2020;0
+Paraguay;South America;2021;2
+Peru;South America;2014;0
+Peru;South America;2015;1
+Peru;South America;2016;1
+Peru;South America;2017;1
+Peru;South America;2018;1
+Peru;South America;2019;2
+Peru;South America;2020;2
+Peru;South America;2021;9
+Poland;Europe;2014;27
+Poland;Europe;2015;22
+Poland;Europe;2016;31
+Poland;Europe;2017;18
+Poland;Europe;2018;20
+Poland;Europe;2019;16
+Poland;Europe;2020;10
+Poland;Europe;2021;24
+Portugal;Europe;2014;4
+Portugal;Europe;2015;12
+Portugal;Europe;2016;24
+Portugal;Europe;2017;8
+Portugal;Europe;2018;10
+Portugal;Europe;2019;7
+Portugal;Europe;2020;42
+Portugal;Europe;2021;6
+Qatar;Asia;2014;0
+Qatar;Asia;2015;1
+Qatar;Asia;2016;0
+Qatar;Asia;2017;1
+Qatar;Asia;2018;0
+Qatar;Asia;2019;0
+Qatar;Asia;2020;0
+Qatar;Asia;2021;1
+Republic Korea;Asia;2014;0
+Republic Korea;Asia;2015;0
+Republic Korea;Asia;2016;0
+Republic Korea;Asia;2017;13
+Republic Korea;Asia;2018;2
+Republic Korea;Asia;2019;0
+Republic Korea;Asia;2020;0
+Republic Korea;Asia;2021;0
+Romania;Europe;2014;852
+Romania;Europe;2015;646
+Romania;Europe;2016;464
+Romania;Europe;2017;427
+Romania;Europe;2018;450
+Romania;Europe;2019;459
+Romania;Europe;2020;386
+Romania;Europe;2021;421
+Russia;Europe;2014;516
+Russia;Europe;2015;567
+Russia;Europe;2016;705
+Russia;Europe;2017;685
+Russia;Europe;2018;683
+Russia;Europe;2019;739
+Russia;Europe;2020;426
+Russia;Europe;2021;538
+Senegal;Africa;2014;0
+Senegal;Africa;2015;1
+Senegal;Africa;2016;1
+Senegal;Africa;2017;0
+Senegal;Africa;2018;0
+Senegal;Africa;2019;0
+Senegal;Africa;2020;1
+Senegal;Africa;2021;0
+Serbia;Europe;2014;18
+Serbia;Europe;2015;11
+Serbia;Europe;2016;7
+Serbia;Europe;2017;15
+Serbia;Europe;2018;12
+Serbia;Europe;2019;11
+Serbia;Europe;2020;6
+Serbia;Europe;2021;19
+Sierra Leone;Africa;2014;0
+Sierra Leone;Africa;2015;1
+Sierra Leone;Africa;2016;0
+Sierra Leone;Africa;2017;0
+Sierra Leone;Africa;2018;1
+Sierra Leone;Africa;2019;0
+Sierra Leone;Africa;2020;1
+Sierra Leone;Africa;2021;2
+Singapore;Asia;2014;0
+Singapore;Asia;2015;0
+Singapore;Asia;2016;0
+Singapore;Asia;2017;0
+Singapore;Asia;2018;0
+Singapore;Asia;2019;5
+Singapore;Asia;2020;0
+Singapore;Asia;2021;0
+Syria;Asia;2014;34
+Syria;Asia;2015;33
+Syria;Asia;2016;20
+Syria;Asia;2017;15
+Syria;Asia;2018;24
+Syria;Asia;2019;9
+Syria;Asia;2020;12
+Syria;Asia;2021;23
+Slovakia;Europe;2014;3
+Slovakia;Europe;2015;4
+Slovakia;Europe;2016;5
+Slovakia;Europe;2017;12
+Slovakia;Europe;2018;6
+Slovakia;Europe;2019;6
+Slovakia;Europe;2020;2
+Slovakia;Europe;2021;2
+Slovenia;Europe;2014;0
+Slovenia;Europe;2015;1
+Slovenia;Europe;2016;0
+Slovenia;Europe;2017;3
+Slovenia;Europe;2018;3
+Slovenia;Europe;2019;2
+Slovenia;Europe;2020;1
+Slovenia;Europe;2021;3
+Somali;Africa;2014;0
+Somali;Africa;2015;0
+Somali;Africa;2016;0
+Somali;Africa;2017;0
+Somali;Africa;2018;0
+Somali;Africa;2019;0
+Somali;Africa;2020;0
+Somali;Africa;2021;0
+Spain;Europe;2014;21
+Spain;Europe;2015;37
+Spain;Europe;2016;12
+Spain;Europe;2017;14
+Spain;Europe;2018;18
+Spain;Europe;2019;17
+Spain;Europe;2020;16
+Spain;Europe;2021;16
+Sri Lanka;Asia;2014;0
+Sri Lanka;Asia;2015;0
+Sri Lanka;Asia;2016;2
+Sri Lanka;Asia;2017;0
+Sri Lanka;Asia;2018;0
+Sri Lanka;Asia;2019;0
+Sri Lanka;Asia;2020;3
+Sri Lanka;Asia;2021;2
+U.S.;North America;2014;202
+U.S.;North America;2015;209
+U.S.;North America;2016;192
+U.S.;North America;2017;206
+U.S.;North America;2018;211
+U.S.;North America;2019;226
+U.S.;North America;2020;80
+U.S.;North America;2021;98
+Sudan;Africa;2014;10
+Sudan;Africa;2015;8
+Sudan;Africa;2016;3
+Sudan;Africa;2017;2
+Sudan;Africa;2018;3
+Sudan;Africa;2019;4
+Sudan;Africa;2020;2
+Sudan;Africa;2021;0
+Sweden;Europe;2014;16
+Sweden;Europe;2015;21
+Sweden;Europe;2016;17
+Sweden;Europe;2017;10
+Sweden;Europe;2018;15
+Sweden;Europe;2019;9
+Sweden;Europe;2020;4
+Sweden;Europe;2021;4
+Suriname;South America;2014;0
+Suriname;South America;2015;0
+Suriname;South America;2016;0
+Suriname;South America;2017;0
+Suriname;South America;2018;1
+Suriname;South America;2019;0
+Suriname;South America;2020;0
+Suriname;South America;2021;0
+Tajikistan;Asia;2014;16
+Tajikistan;Asia;2015;16
+Tajikistan;Asia;2016;15
+Tajikistan;Asia;2017;20
+Tajikistan;Asia;2018;26
+Tajikistan;Asia;2019;47
+Tajikistan;Asia;2020;23
+Tajikistan;Asia;2021;65
+Tanzania;Africa;2014;0
+Tanzania;Africa;2015;0
+Tanzania;Africa;2016;2
+Tanzania;Africa;2017;0
+Tanzania;Africa;2018;1
+Tanzania;Africa;2019;0
+Tanzania;Africa;2020;0
+Tanzania;Africa;2021;1
+Thailand;Asia;2014;0
+Thailand;Asia;2015;0
+Thailand;Asia;2016;3
+Thailand;Asia;2017;2
+Thailand;Asia;2018;2
+Thailand;Asia;2019;0
+Thailand;Asia;2020;0
+Thailand;Asia;2021;5
+Togo;Africa;2014;1
+Togo;Africa;2015;1
+Togo;Africa;2016;1
+Togo;Africa;2017;1
+Togo;Africa;2018;0
+Togo;Africa;2019;0
+Togo;Africa;2020;1
+Togo;Africa;2021;0
+Tunisia;Africa;2014;3
+Tunisia;Africa;2015;3
+Tunisia;Africa;2016;3
+Tunisia;Africa;2017;2
+Tunisia;Africa;2018;3
+Tunisia;Africa;2019;7
+Tunisia;Africa;2020;4
+Tunisia;Africa;2021;3
+Turkey;Asia;2014;421
+Turkey;Asia;2015;347
+Turkey;Asia;2016;293
+Turkey;Asia;2017;245
+Turkey;Asia;2018;430
+Turkey;Asia;2019;760
+Turkey;Asia;2020;432
+Turkey;Asia;2021;797
+Turkmenistan;Asia;2014;0
+Turkmenistan;Asia;2015;2
+Turkmenistan;Asia;2016;4
+Turkmenistan;Asia;2017;1
+Turkmenistan;Asia;2018;1
+Turkmenistan;Asia;2019;5
+Turkmenistan;Asia;2020;3
+Turkmenistan;Asia;2021;2
+Ukraine;Europe;2014;534
+Ukraine;Europe;2015;754
+Ukraine;Europe;2016;734
+Ukraine;Europe;2017;681
+Ukraine;Europe;2018;752
+Ukraine;Europe;2019;919
+Ukraine;Europe;2020;642
+Ukraine;Europe;2021;771
+Hungary;Europe;2014;4
+Hungary;Europe;2015;3
+Hungary;Europe;2016;3
+Hungary;Europe;2017;4
+Hungary;Europe;2018;5
+Hungary;Europe;2019;2
+Hungary;Europe;2020;1
+Hungary;Europe;2021;1
+Uzbekistan;Asia;2014;22
+Uzbekistan;Asia;2015;37
+Uzbekistan;Asia;2016;24
+Uzbekistan;Asia;2017;27
+Uzbekistan;Asia;2018;41
+Uzbekistan;Asia;2019;204
+Uzbekistan;Asia;2020;58
+Uzbekistan;Asia;2021;117
+Venezuela;South America;2014;0
+Venezuela;South America;2015;0
+Venezuela;South America;2016;1
+Venezuela;South America;2017;0
+Venezuela;South America;2018;0
+Venezuela;South America;2019;1
+Venezuela;South America;2020;0
+Venezuela;South America;2021;1
+Viet Nam;Asia;2014;6
+Viet Nam;Asia;2015;5
+Viet Nam;Asia;2016;1
+Viet Nam;Asia;2017;1
+Viet Nam;Asia;2018;3
+Viet Nam;Asia;2019;2
+Viet Nam;Asia;2020;0
+Viet Nam;Asia;2021;3
+Yemen;Asia;2014;1
+Yemen;Asia;2015;1
+Yemen;Asia;2016;0
+Yemen;Asia;2017;1
+Yemen;Asia;2018;1
+Yemen;Asia;2019;0
+Yemen;Asia;2020;0
+Yemen;Asia;2021;0
+Not defined;NA;2014;31
+Not defined;NA;2015;26
+Not defined;NA;2016;26
+Not defined;NA;2017;18
+Not defined;NA;2018;26
+Not defined;NA;2019;25
+Not defined;NA;2020;16
+Not defined;NA;2021;11
