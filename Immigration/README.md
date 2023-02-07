@@ -11,9 +11,9 @@ This portfolio project showcases my skills in data analysis and visualization. T
 
 ## [Power BI visualisation](https://raw.githubusercontent.com/vzagaevschi/Data-Analysis-Portfolio/main/Immigration/4_Data_Visualization/Immigration%20to%20Moldova%202014-2021%20-%20Power%20BI.png)
 
-![Power BI](./4_Data_Visualization/Immigration to Moldova 2014-2021 - Power BI.png)
 
-<img src="https://raw.githubusercontent.com/vzagaevschi/Data-Analysis-Portfolio/main/Immigration/4_Data_Visualization/Immigration%20to%20Moldova%202014-2021%20-%20Power%20BI.png" width="200" >
+
+<img src="https://raw.githubusercontent.com/vzagaevschi/Data-Analysis-Portfolio/main/Immigration/4_Data_Visualization/Immigration%20to%20Moldova%202014-2021%20-%20Power%20BI.png" width="100%" >
 
 ## Dataset
 The Dataset: Immigration to Moldova from 2014 to 2021 (Imigranti dupa tara de emigrare si scopul sosirii, 2014-2021]) from National Bureau of Statistics of the Republic of Moldova. 
