@@ -261,8 +261,9 @@ ENV/
 # mkdocs documentation
 /site
 
-# tableau files
+# tableau, power bi files
 *.twbx
+*.pbix
 
 # model files
 *.eapx
