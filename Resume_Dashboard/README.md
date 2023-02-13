@@ -2,7 +2,7 @@
 ## My Interactive Tableau Resume
 
 ## Introduction
-This portfolio project showcases showcases the power of Tableau to turn complex data into intuitive, interactive dashboards. Data in this dashboard could be explored in a dynamic and user-friendly way.
+This portfolio project showcases the power of Tableau to turn complex data into intuitive, interactive dashboards. Data in this dashboard could be explored in a dynamic and user-friendly way.
 
 The dashboard is built using Tableau, a data visualization software that is widely used in the industry for its ease of use and flexibility. The dashboards created with Tableau can be easily shared and published, making it a great tool for data-driven decision making.
 
@@ -26,3 +26,6 @@ Overall, the project is a valuable tool for anyone looking to get insights from 
 - Tableau
 - MS Excel
 - Adobe Photoshop
+
+##
+Inspired by [Tableau Resume of Eric Balash](https://public.tableau.com/app/profile/eric.balash/viz/EricBalashTableauResumeV2/EricBalashTableauResume)
