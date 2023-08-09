@@ -6,6 +6,8 @@ This repository contains a collection of portfolio projects for data analysis. E
 
 1. Project 1: Protected Areas
 2. Project 2: Immigration
+3. Project 3: Resume_Dashboard
+4. Project 4: SpaceX-Landing-Prediction
 
 ## Project 1: Protected Areas
 
@@ -15,6 +17,14 @@ In this project, I conducted an exploratory data analysis of the Protected Areas
 
 This portfolio project showcases my skills in data analysis and visualization. The project is focused on exploring and analyzing a dataset of my choice, and presenting my insights and findings through various visualization techniques. The project involved collecting and cleaning the data, etc.
 
+
+## Project 3: Resume_Dashboard
+
+This portfolio project showcases the power of Tableau to turn complex data into intuitive, interactive dashboards. Data in this dashboard could be explored in a dynamic and user-friendly way.
+
+## Project 4: SpaceX-Landing-Prediction
+
+This is a data analysis project (refactoring of IBM Applied Data Science Capstone) that examines SpaceX's launch data.
 
 ## Code
 
