@@ -18,7 +18,7 @@ In this project, I conducted an exploratory data analysis of the Protected Areas
 This portfolio project showcases my skills in data analysis and visualization. The project is focused on exploring and analyzing a dataset of my choice, and presenting my insights and findings through various visualization techniques. The project involved collecting and cleaning the data, etc.
 
 
-## Project 3: Resume_Dashboard
+## Project 3: Resume Dashboard
 
 This portfolio project showcases the power of Tableau to turn complex data into intuitive, interactive dashboards. Data in this dashboard could be explored in a dynamic and user-friendly way.
 
