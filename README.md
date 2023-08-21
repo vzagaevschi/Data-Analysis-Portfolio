@@ -8,6 +8,7 @@ This repository contains a collection of portfolio projects for data analysis. E
 2. Project 2: Immigration to Moldova
 3. Project 3: Resume_Dashboard
 4. Project 4: SpaceX Landing Prediction
+5. Project 5: Customer segmentation
 
 ## Project 1: Protected Areas
 
@@ -25,6 +26,11 @@ This portfolio project showcases the power of Tableau to turn complex data into 
 ## Project 4: SpaceX Landing Prediction
 
 This is a data analysis project (refactoring of IBM Applied Data Science Capstone) that examines SpaceX's launch data.
+
+## Project 5: Customer segmentation
+
+This repository contains code and analysis for a customer segmentation project. The project aims to segment customers based on their attributes and behavior, and provide insights to help businesses make informed decisions.
+
 
 ## Code
 

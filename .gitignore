@@ -268,3 +268,5 @@ ENV/
 
 # model files
 *.eapx
+
+.obsidian
