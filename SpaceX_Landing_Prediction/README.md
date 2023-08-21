@@ -20,8 +20,8 @@ This information can be useful for a competing company that wants to bid against
 Below is an example of a successful launch and landing and unsuccessful ones.
 
 <div style="text-align:center">
-<img src="./Resources/success_landing.gif" alt="Success" style="height:200px; width:auto; display:inline-block; margin:auto;">
-<img src="./Resources/unsuccess_landing.gif" alt="Unsuccess" style="height:200px; width:auto; display:inline-block; margin:auto;">
+<img src="./resources/success_landing.gif" alt="Success" style="height:200px; width:auto; display:inline-block; margin:auto;">
+<img src="./resources/unsuccess_landing.gif" alt="Unsuccess" style="height:200px; width:auto; display:inline-block; margin:auto;">
 </div>  
 
 ### The analysis focuses on exploring the following questions:
