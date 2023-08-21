@@ -27,7 +27,7 @@ The purpose of this project is to collect, clean, process and present public dat
 * etc. 
 
 ## Project Description
-The initial data were taken from the Law of the Republic of Moldova. - http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=311614
+The initial data were taken from the site Law of the Republic of Moldova. - http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=311614
 There are 13 annexes that correspond to different types of protected areas. 
 Annex 9 was excluded from the law in 2005. 
 The annexes contain data organised in table form: nr, name, location, land owners. 
