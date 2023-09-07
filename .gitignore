@@ -270,3 +270,5 @@ ENV/
 *.eapx
 
 .obsidian
+
+/nf_*
