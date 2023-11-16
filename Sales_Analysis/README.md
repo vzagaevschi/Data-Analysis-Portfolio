@@ -19,25 +19,25 @@ This project is centered around comprehensive analysis of sales data obtained fr
  
 ## User Stories
 #### US001  
-	**As a** Sales Manager 
-	**I want** to access a dashboard providing an overview of internet sales 
-	- **So that I** can better track the top-performing customers and products in sales 
-	- **Acceptance Criteria:** A Power BI dashboard displaying updated data once a day, highlighting the best-selling customers and products. 
+- **As a** Sales Manager 
+- **I want** to access a dashboard providing an overview of internet sales 
+- **So that I** can better track the top-performing customers and products in sales 
+- **Acceptance Criteria:** A Power BI dashboard displaying updated data once a day, highlighting the best-selling customers and products. 
 #### US002 
-	- **As a** Sales Manager 
-	- **I want** a detailed overview of internet sales per customers 
-	- **So that I** can effectively follow up with our highest-buying customers and identify potential areas for increased sales 
-	- **Acceptance Criteria:** A Power BI dashboard offering data filtering for each customer, enabling detailed analysis of customer-specific sales data. 
+- **As a** Sales Manager 
+- **I want** a detailed overview of internet sales per customers 
+- **So that I** can effectively follow up with our highest-buying customers and identify potential areas for increased sales 
+- **Acceptance Criteria:** A Power BI dashboard offering data filtering for each customer, enabling detailed analysis of customer-specific sales data. 
 #### US003 
-	- **As a** Sales Manager 
-	- **I want** a detailed overview of internet sales per products 
-	- **So that I** can monitor and track the best-selling products for targeted sales strategies 
-	- **Acceptance Criteria:** A Power BI dashboard facilitating data filtering for each product, allowing in-depth analysis of product-specific sales data. 
+- **As a** Sales Manager 
+- **I want** a detailed overview of internet sales per products 
+- **So that I** can monitor and track the best-selling products for targeted sales strategies 
+- **Acceptance Criteria:** A Power BI dashboard facilitating data filtering for each product, allowing in-depth analysis of product-specific sales data. 
 #### US004
-	- **As a** Sales Manager 
-	- **I want** a dashboard overview of internet sales with comparisons against the budget 
-	- **So that I** can monitor sales performance over time in relation to the allocated budget 
-	- **Acceptance Criteria:** A Power BI dashboard featuring graphs and Key Performance Indicators (KPIs) comparing sales against the provided budget.
+- **As a** Sales Manager 
+- **I want** a dashboard overview of internet sales with comparisons against the budget 
+- **So that I** can monitor sales performance over time in relation to the allocated budget 
+- **Acceptance Criteria:** A Power BI dashboard featuring graphs and Key Performance Indicators (KPIs) comparing sales against the provided budget.
 
 ## Methods Used 
 ### Data Cleaning 
