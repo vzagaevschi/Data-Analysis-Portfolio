@@ -12,11 +12,11 @@ This repository contains the materials and documentation for a data analysis pro
 ## Project Overview
 This project is centered around comprehensive analysis of sales data obtained from the AdventureWorks dataset. The primary objective is to transform conventional static sales reports into dynamic visual dashboards using various data analytics tools and techniques. The focus areas include understanding product sales patterns, customer engagement dynamics, and observing sales trends over time.
 
-<img src="https://github.com/vzagaevschi/Data-Analysis-Portfolio/blob/main/Sales_Analysis/reports/Dashboard_Customers.png" width="100%" >
+<img src="https://github.com/vzagaevschi/Data-Analysis-Portfolio/blob/main/Sales_Analysis/reports/Dashboard_Customers.png" width="70%" >
 
-<img src="https://github.com/vzagaevschi/Data-Analysis-Portfolio/blob/main/Sales_Analysis/reports/Dashboard_Products.png" width="100%" >
+<img src="https://github.com/vzagaevschi/Data-Analysis-Portfolio/blob/main/Sales_Analysis/reports/Dashboard_Products.png" width="70%" >
 
-<img src="https://github.com/vzagaevschi/Data-Analysis-Portfolio/blob/main/Sales_Analysis/reports/Dashboard_Sales.png" width="100%" >
+<img src="https://github.com/vzagaevschi/Data-Analysis-Portfolio/blob/main/Sales_Analysis/reports/Dashboard_Sales.png" width="70%" >
 
 ## Business Demand Overview 
 - **Value of Change:** The project aims to introduce visual dashboards and enhance sales reporting or follow-up mechanisms within the sales force. 
