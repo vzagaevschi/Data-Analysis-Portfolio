@@ -4,12 +4,12 @@ This repository contains a collection of portfolio projects for data analysis. E
 
 ## Project List
 
-1. [Project 1: Protected Areas](#protected-areas)
-2. Project 2: Immigration to Moldova
-3. Project 3: Resume Dashboard
-4. Project 4: SpaceX Landing Prediction
-5. Project 5: Customer segmentation
-6. [Project 6: Sales Analysis](#sales-analysis)
+1. [Project 1: Protected Areas](##project-1-protected-areas)
+2. [Project 2: Immigration to Moldova](##project-2-immigration-to-moldova)
+3. [Project 3: Resume Dashboard](#project-3-resume-dashboard)
+4. [Project 4: SpaceX Landing Prediction](#project-4-spacex-landing-prediction)
+5. [Project 5: Customer segmentation](##project-5-customer-segmentation)
+6. [Project 6: Sales Analysis](#project-6-sales-analysis)
 
 ## Project 1: Protected Areas
 
