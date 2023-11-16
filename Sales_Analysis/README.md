@@ -19,8 +19,8 @@ This project is centered around comprehensive analysis of sales data obtained fr
  
 ## User Stories
 #### US001  
-	- **As a** Sales Manager 
-	- **I want** to access a dashboard providing an overview of internet sales 
+	**As a** Sales Manager 
+	**I want** to access a dashboard providing an overview of internet sales 
 	- **So that I** can better track the top-performing customers and products in sales 
 	- **Acceptance Criteria:** A Power BI dashboard displaying updated data once a day, highlighting the best-selling customers and products. 
 #### US002 
