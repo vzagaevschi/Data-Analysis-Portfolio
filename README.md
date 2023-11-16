@@ -4,11 +4,12 @@ This repository contains a collection of portfolio projects for data analysis. E
 
 ## Project List
 
-1. Project 1: Protected Areas
+1. [Project 1: Protected Areas](#protected-areas)
 2. Project 2: Immigration to Moldova
-3. Project 3: Resume_Dashboard
+3. Project 3: Resume Dashboard
 4. Project 4: SpaceX Landing Prediction
 5. Project 5: Customer segmentation
+6. [Project 6: Sales Analysis](#sales-analysis)
 
 ## Project 1: Protected Areas
 
@@ -31,8 +32,11 @@ This is a data analysis project (refactoring of IBM Applied Data Science Capston
 
 This repository contains code and analysis for a customer segmentation project. The project aims to segment customers based on their attributes and behavior, and provide insights to help businesses make informed decisions.
 
+## Project 6: Sales Analysis
+
+This repository contains the materials and documentation for a data analysis project focused on sales analysis using the AdventureWorks demo dataset. The project aims to leverage SQL, database management, business analysis techniques, and Power BI to analyze and visualize sales data.
 
 ## Code
 
-The code for each project can be found in the corresponding subdirectories within this repository. Each project includes datasets in csv or MS Excel,  Jupyter notebooks or Python scripts that contains the code, along with accompanying documentation and visualizations.
+The code for each project can be found in the corresponding subdirectories within this repository. Each project includes datasets in csv or MS Excel, Jupyter notebooks or Python scripts that contains the code, along with accompanying documentation and visualizations.
 
