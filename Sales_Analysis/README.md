@@ -1,15 +1,13 @@
--# Sales Analysis Project
+# Sales Analysis Project
 
 This repository contains the materials and documentation for a data analysis project focused on sales analysis using the AdventureWorks demo dataset. The project aims to leverage SQL, database management, business analysis techniques, and Power BI to analyze and visualize sales data.
 
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Business Demand Overview](# Business Demand Overview)
-- [Usage](#usage)
-- [Analysis](#analysis)
-- [Conclusion](#conclusion)
-- [Contributing](#contributing)
+- [Business Demand Overview](#business-demand-overview)
+- [User stories](#user-stories)
+- [Methods Used](#methods-used)
 
 ## Project Overview
 This project is centered around comprehensive analysis of sales data obtained from the AdventureWorks dataset. The primary objective is to transform conventional static sales reports into dynamic visual dashboards using various data analytics tools and techniques. The focus areas include understanding product sales patterns, customer engagement dynamics, and observing sales trends over time.
