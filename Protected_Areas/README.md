@@ -17,14 +17,20 @@ The purpose of this project is to collect, clean, process and present public dat
    - Validated dataset.
 * Data Visualization
    - Excel
+   - Power BI
    - Tableau 
 * etc.
 
 ### Technologies
 * Excel formulas 
 * PostgreSQL
+* Powert BI
 * Tableau
 * etc. 
+
+### Power BI 
+
+https://www.novypro.com/project/protected-natural-areas-in-the-republic-of-moldova
 
 ## Project Description
 The initial data were taken from the site Law of the Republic of Moldova. - http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=311614
