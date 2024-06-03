@@ -1,24 +1,42 @@
-# Immigration to Republic of Moldova in 2014-2021
+# Immigration to Republic of Moldova in 1999-2023
 ## Data Analysis Portfolio Project
 
 ## Introduction
 This portfolio project showcases my skills in data analysis and visualization. The project is focused on exploring and analyzing a dataset of my choice, and presenting my insights and findings through various visualization techniques.
+
+## [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiM2M4NzcyZWUtM2FmYS00N2UzLTk4YjktMGJmMGQxNWYwNDAwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+
+## [Power BI visualisation](https://raw.githubusercontent.com/vzagaevschi/Data-Analysis-Portfolio/main/Immigration_Moldova/reports/Migration_Trends_Page_0.png)
+
+
+
+<img src="https://raw.githubusercontent.com/vzagaevschi/Data-Analysis-Portfolio/main/Immigration_Moldova/reports/Migration_Trends_Page_0.png" width="100%" >
+
+
+## [Power BI visualisation](https://raw.githubusercontent.com/vzagaevschi/Data-Analysis-Portfolio/main/Immigration_Moldova/reports/Migration_Trends_Page_1.png)
+
+
+
+<img src="https://raw.githubusercontent.com/vzagaevschi/Data-Analysis-Portfolio/main/Immigration_Moldova/reports/Migration_Trends_Page_1.png" width="100%" >
+
+
+## [Power BI visualisation](https://raw.githubusercontent.com/vzagaevschi/Data-Analysis-Portfolio/main/Immigration_Moldova/reports/Migration_Trends_Page_2.png)
+
+
+
+<img src="https://raw.githubusercontent.com/vzagaevschi/Data-Analysis-Portfolio/main/Immigration_Moldova/reports/Migration_Trends_Page_2.png" width="100%" >
+
 
 ## [Tableau visualisation](https://public.tableau.com/views/ImmigrationtoMoldova2014-2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <div class='tableauPlaceholder' id='viz1675422606321' style='position: relative'><noscript><a href='#'><img alt='Immigration to the Republic of Moldova in 2014-2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Im&#47;ImmigrationtoMoldova2014-2021&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ImmigrationtoMoldova2014-2021&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Im&#47;ImmigrationtoMoldova2014-2021&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
 
 
-## [Power BI visualisation](https://raw.githubusercontent.com/vzagaevschi/Data-Analysis-Portfolio/main/Immigration_Moldova/reports/Immigration%20to%20Moldova%202014-2021%20-%20Power%20BI.png)
-
-
-
-<img src="https://raw.githubusercontent.com/vzagaevschi/Data-Analysis-Portfolio/main/Immigration_Moldova/reports/Immigration%20to%20Moldova%202014-2021%20-%20Power%20BI.png" width="100%" >
-
 ## Dataset
-The Dataset: Immigration to Moldova from 2014 to 2021 (Imigranti dupa tara de emigrare si scopul sosirii, 2014-2021]) from National Bureau of Statistics of the Republic of Moldova. 
+The Dataset: Immigration to Moldova from 1999 to 2023 (Imigranti dupa tara de emigrare si scopul sosirii, 1999-2023]) from National Bureau of Statistics of the Republic of Moldova. 
 
-Dataset Source: [Populatia si procesele demografice: Imigranti dupa tara de emigrare si scopul sosirii, 2014-2021](https://statbank.statistica.md/PxWeb/pxweb/ro/20%20Populatia%20si%20procesele%20demografice/20%20Populatia%20si%20procesele%20demografice__POPrec__POP070/POP070100rcl.px/?rxid=b2ff27d7-0b96-43c9-934b-42e1a2a9a774).
+Dataset Source: [Populatia si procesele demografice: Imigranti dupa tara de emigrare si scopul sosirii, 2014-2023](https://statbank.statistica.md/PxWeb/pxweb/ro/20%20Populatia%20si%20procesele%20demografice/20%20Populatia%20si%20procesele%20demografice__POPrec__POP070/POP070100rcl.px/?rxid=b2ff27d7-0b96-43c9-934b-42e1a2a9a774).
 
 The dataset contains annual data on the flows of international immigrants to the Republic of Moldova as recorded by the countries of destination for period of 2014-2021. The data includes factors such as the country, years, number of people moving  and reasons for moving.
 
