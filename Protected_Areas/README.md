@@ -30,7 +30,7 @@ The purpose of this project is to collect, clean, process and present public dat
 
 ### Power BI 
 
-https://www.novypro.com/project/protected-natural-areas-in-the-republic-of-moldova
+https://www.novypro.com/profile_projects/veaceslavzagaevschi?Popup=memberProject&Data=1704484652730x267376739470748700
 
 ## Project Description
 The initial data were taken from the site Law of the Republic of Moldova. - http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=311614
